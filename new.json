@@ -1,5 +1,7 @@
 {
-
-
-
+	"name":"Michail",
+	"surname":"Latyshev",
+	"age":39,
+	"animal":1,
+	"salary":"3k"
 }
